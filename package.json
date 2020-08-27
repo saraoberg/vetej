@@ -1,0 +1,22 @@
+{
+  "name": "vetej",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saraoberg/vetej.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saraoberg/vetej/issues"
+  },
+  "homepage": "https://github.com/saraoberg/vetej#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2"
+  }
+}
